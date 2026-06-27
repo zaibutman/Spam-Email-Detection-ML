@@ -169,7 +169,7 @@ Spam-Email-Detection-ML/
 
 # 👨‍💻 Author
 
-**Zaib Utman**
+**Shah Mubarak Zaib**
 
 **AI/ML Engineer | Deep Learning Practitioner | Oracle Database Developer & Administrator**
 
